@@ -56,11 +56,7 @@ Contributions to this project are welcome! Feel free to fork the repository, mak
 ![User controller](https://raw.githubusercontent.com/vijaisuria/admin-panel-event-management/master/output/screenshot-3.png)
 ![Participants controller](https://raw.githubusercontent.com/vijaisuria/admin-panel-event-management/master/output/screenshot-4.png)
 
-### Output Video
 
-Include a link to the video demonstrating the admin panel's functionalities here.
-
-[Output Video Link](https://annauniv0-my.sharepoint.com/:v:/g/personal/2021503568_student_annauniv_edu/ETVHnivhoxhMiwbIMEJf87EBDp5ow5hh08Sbmb4HZ4osFA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=P7befp)
 
 ## Get in Touch
 

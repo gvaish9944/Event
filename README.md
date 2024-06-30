@@ -34,7 +34,7 @@ This admin panel website serves as a comprehensive management system for organiz
 
 #### Steps for Installation:
 
-1. Clone the repository: `git clone https://github.com/vijaisuria/admin-panel-event-management.git`
+1. Clone the repository: `git clone https://github.com/gvaish9944/Event .
 2. Set up the MySQL database by importing <kbd>enigma_db.sql</kbd> located in <kbd>database</kbd> folder.
 3. Configure the database connection in the PHP files.
 4. Host the website on a PHP-enabled server (i.e. XAMPP, Apache).
